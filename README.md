@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ziya cetin</h1>
+<h1 align="center">Hi 👋, I'm ziya</h1>
 <h3 align="center">Developer of something</h3>
 <img align="right" alt"Coding" width="300" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif">
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ziya_c3tin@outlook.com**
 
-- ⚡ Fun fact **I like rap music**
+- ⚡ Fun fact **everything is fun if you are the fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
